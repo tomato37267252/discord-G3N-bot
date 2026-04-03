@@ -1,0 +1,16 @@
+{
+  "botConfig": {
+    "token": "METS_TON_TOKEN_ICI",
+    "statusText": ".gg/warden-cloud : Free MCFA Generator",
+    "statusRoleId": "ID_DU_ROLE_STATUT",
+    "vouchTargetId": "ID_DU_BOT_OU_SERVEUR_A_MENTIONNER",
+    "vouchChannelId": "ID_SALON_VOUCH",
+    "appealChannelId": "ID_SALON_APPEL",
+    "logsChannelId": "ID_SALON_LOGS",
+    "vouchFailureLogChannelId": "ID_SALON_LOG_ECHECS",
+    "genChannelId": "ID_SALON_GENERATION_FREE",
+    "boosterChannelId": "ID_SALON_GENERATION_BOOSTER",
+    "vipChannelId": "ID_SALON_GENERATION_VIP",
+    "restockChannelId": "ID_SALON_RESTOCK"
+  }
+}

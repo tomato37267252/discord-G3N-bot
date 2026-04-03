@@ -1,0 +1,7 @@
+config.json
+data.json
+__pycache__/
+commands/__pycache__/
+*.pyc
+*.pyo
+.env
